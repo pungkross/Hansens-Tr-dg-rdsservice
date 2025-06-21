@@ -54,3 +54,14 @@
     <p class="price">Pris: 400 kr per klippning</p>
 </main>
 
+<footer>
+    <p>Följ oss på sociala medier:</p>
+    <div class="social-links">
+        <a href="https://www.instagram.com/hansens_tradgardsservice?igsh=MWczdWkxNXBwZ3k0ZQ==" target="_blank">Instagram</a>
+        <a href="https://www.facebook.com/share/12MCzogFMB5/" target="_blank">Facebook</a>
+    </div>
+    <p>&copy; 2025 Hansens Trädgårdsservice</p>
+</footer>
+
+</body>
+</html>
